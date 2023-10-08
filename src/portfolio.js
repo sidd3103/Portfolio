@@ -237,7 +237,7 @@ const bigProjects = {
   subtitle: "",
   projects: [
     {
-      image: require("./assets/images/bookworm.gif"),
+      image: require("./assets/images/bookworm.png"),
       projectName: "Bookworm",
       projectDesc:
         "Created a Tinder like app for book enthusiasts using React Native",
@@ -250,7 +250,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/discord.gif"),
+      image: require("./assets/images/discord.png"),
       projectName: "Discord Clone",
       projectDesc: "Created a Discord Clone using Next.js and React",
       footerLink: [
